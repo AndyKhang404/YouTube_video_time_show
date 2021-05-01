@@ -4,7 +4,6 @@
 // @version      1.0
 // @description  Show the current time of the video on the title, so you don't have to periodically switch tabs
 // @author       Andy Khang
-// @license      https://raw.githubusercontent.com/AndyKhang404/YouTube_video_time_show/main/LICENSE
 // @match        https://www.youtube.com/watch?*
 // @icon         https://www.google.com/s2/favicons?domain=tampermonkey.net
 // @grant        none

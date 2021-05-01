@@ -4,6 +4,7 @@
 // @version      1.0
 // @description  Show the current time of the video on the title, so you don't have to periodically switch tabs
 // @author       Andy Khang
+// @license      MIT
 // @match        https://www.youtube.com/watch?*
 // @icon         https://www.google.com/s2/favicons?domain=tampermonkey.net
 // @grant        none
